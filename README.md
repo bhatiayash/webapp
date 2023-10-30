@@ -3,7 +3,7 @@ Assignment 3
 
 Prerequisites:
 1. Node JS
-2. MySqltest
+2. MySql
 
 Running Application:
 1. Clone the repository
